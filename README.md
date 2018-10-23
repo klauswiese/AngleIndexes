@@ -2,8 +2,8 @@
 
 # Install Package
 
-````
+
+```
 library(remotes)
 install_github("klauswiese/AngleIndexes")
-
-´´´
+```
