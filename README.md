@@ -1,2 +1,1 @@
-# AngleIndexes
-Various angle indexes for MODIS and Sentinel 2 
+# Paquete para la Evaluación de Impacto Ambiental Oikos

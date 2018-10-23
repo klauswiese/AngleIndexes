@@ -1,0 +1,10 @@
+Package: AngleIndexes
+Type: Package
+Title: AngleIndexes
+Version: 1.0
+Date: 2018-10-22
+Author: Klaus Wolfgang Wiese Acosta
+Maintainer: Klaus Wolfgang Wiese Acosta <klaus.wiese@unah.edu.hn>
+Description: Package for the estimation of remote sensing angle indexes
+License: GPL
+Depends: R (>= 2.14.0), methods, sp, raster

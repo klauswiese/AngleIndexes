@@ -1,0 +1,16 @@
+#Functions
+export("ANIRmodis")
+export("ARmodis")
+export("AS1modis")
+export("AS2modis")
+export("SASImodis")
+export("ANIRsentinel")
+export("ARsentinel")
+export("AS1sentinel")
+export("AS2sentinel")
+export("SASIsentinel")
+
+#Packages
+import("methods")
+import("raster")
+import("sp")
