@@ -9,6 +9,9 @@ export("ARsentinel")
 export("AS1sentinel")
 export("AS2sentinel")
 export("SASIsentinel")
+export("ARE1sentinel")
+export("ARE2sentinel")
+export("ARE3sentinel")
 
 #Packages
 import("methods")
