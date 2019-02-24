@@ -1,9 +1,9 @@
 #Función ARE1 para Sentinel 2
 ARE1sentinel <- function(Red, RedEdge1, RedEdge2){
   ARE1Index <- overlay(Red, RedEdge1, RedEdge2, fun=function(x,y,z){
-    a <- (sqrt((705-665)^2+(y-x)^2))
-    b <- (sqrt((740-705)^2+(z-y)^2))
-    c <- (sqrt((740-665)^2+(z-x)^2))
+    a <- (sqrt((0.705-0.665)^2+(y-x)^2))
+    b <- (sqrt((0.740-0.705)^2+(z-y)^2))
+    c <- (sqrt((0.740-0.665)^2+(z-x)^2))
     ind <- acos((a^2+b^2-c^2)/(2*a*b))
     return(ind)
   })
