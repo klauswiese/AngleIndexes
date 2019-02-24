@@ -1,1 +1,5 @@
-# Paquete para la Evaluación de Impacto Ambiental Oikos
+# Package to calculate Angle Indexes for MODIS and Sentinel 2
+
+#Installation
+
+remotes::install_github("klauswiese/AngleIndexes")
