@@ -7,7 +7,7 @@ ARE2sentinel <- function(RedEdge1, RedEdge2, RedEdge3){
     d <- (a^2+b^2-c^2)/(2*a*b)
     d2 <- ifelse(d > 1, 1, ifelse(d < -1, -1, d))
     ind <- acos(d2)
-    return(ind)
+    return(ind)#¿será necesario?
   })
   return(ARE2Index)
 }
