@@ -1,6 +1,6 @@
 \name{ARE2sentinel}
 \alias{ARE2sentinel}
-%- Also NEED an '\alias' for EACH other topic documented here.
+
 \title{
   Angle on Red Edge 2 for Sentinel 2
 }
