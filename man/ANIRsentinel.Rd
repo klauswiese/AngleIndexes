@@ -1,6 +1,5 @@
 \name{ANIRsentinel}
 \alias{ANIRsentinel}
-%- Also NEED an '\alias' for EACH other topic documented here.
 \title{
 Angle on near infrared for Sentinel 2
 }
