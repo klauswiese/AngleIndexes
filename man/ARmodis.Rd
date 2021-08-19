@@ -1,6 +1,5 @@
 \name{ARmodis}
 \alias{ARmodis}
-%- Also NEED an '\alias' for EACH other topic documented here.
 \title{
 Angle on Red for MODIS
 }
