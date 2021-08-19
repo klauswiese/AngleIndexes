@@ -1,6 +1,5 @@
 \name{ARsentinel}
 \alias{ARsentinel}
-%- Also NEED an '\alias' for EACH other topic documented here.
 \title{
 Angle on Red for Sentinel 2
 }
