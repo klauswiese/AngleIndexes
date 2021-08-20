@@ -1,6 +1,5 @@
 \name{SASImodis}
 \alias{SASImodis}
-%- Also NEED an '\alias' for EACH other topic documented here.
 \title{
 Shortwave Angle Slope Index for MODIS
 }
