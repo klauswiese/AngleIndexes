@@ -1,6 +1,5 @@
 \name{SASIsentinel}
 \alias{SASIsentinel}
-%- Also NEED an '\alias' for EACH other topic documented here.
 \title{
 Shortwave Angle Slope Index for Sentinel 2
 }
