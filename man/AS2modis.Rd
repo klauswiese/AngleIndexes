@@ -1,6 +1,5 @@
 \name{AS2modis}
 \alias{AS2modis}
-%- Also NEED an '\alias' for EACH other topic documented here.
 \title{
 Angle on SWIR 2 for MODIS
 }
