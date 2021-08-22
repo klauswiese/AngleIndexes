@@ -1,6 +1,5 @@
 \name{AS2sentinel}
 \alias{AS2sentinel}
-%- Also NEED an '\alias' for EACH other topic documented here.
 \title{
 Angle on SWIR 2 for Sentinel 2
 }
