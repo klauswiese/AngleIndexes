@@ -5,7 +5,7 @@ AS1modis <- function(NIR, SWIR, SWIR2){
     b <- (sqrt((1.240-1.640)^2+(y-z)^2))
     c <- (sqrt((1.640-0.858)^2+(z-x)^2))
     d <- (a^2+b^2-c^2)/(2*a*b)
-    d2 <- ifelse(d > 1, 1, ifelse(d < -1, -1, d))
+    d2 <- ifelse(d > 1, 1, ifelse(d < -1, -1, d))#revisar esta sentencia
     ind <- acos(d2)
     return(ind)
   })
