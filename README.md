@@ -15,8 +15,8 @@ remotes::install_github("klauswiese/AngleIndexes")
 # Angle Index
 
 - ANIR: Angle in NIR (Red - NIR - SWIR1)
-- SASI
 - AR: Angle in RED (Green - Red - NIR)
 - ARE 1: Angle in Red edge 1 (Red - Red edge 1 - Red edge 2)
 - ARE 2: Angle in Red edge 2 (Red edge 1 - Red edge 2 - Red edge 3)
 - ARE 3: Angle in Red edge 3 (Red edge 2 - Red edge 3 - NIR)
+- SASI: 
